@@ -28,4 +28,9 @@ basis for linear interpolations:
 
     Also called "position basis"
 
-### Finite differences
+### Other topics
+## Finite differences
+## Pseudo spectral
+## Finite volumes
+## Finite Elements
+## Particles
