@@ -4,7 +4,7 @@
 3. show the result is independent of N -> "convergence"
 
 ### Example: P_l(x)
-f(x) = \sum_i=0^N c^i P_i(x)
+$f(x) = \sum_i=0^N c^i P_i(x)$
 
 Plot the error w.r.t. the basis number N: log E(N)
 Convergence region.
