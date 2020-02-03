@@ -34,3 +34,12 @@ basis for linear interpolations:
 ## Finite volumes
 ## Finite Elements
 ## Particles
+
+# Sampling
+## Richardson extrapolation
+N to be the resolution
+h assumed to be small
+I^N = I + \alpha \cdot h_N^{2}
+I^{2N} = I + \alpha \cdot h_{2N}^{2}
+I^{4N} = I + \alpha \cdot h_{4N}^{2}
+\cdots
