@@ -24,7 +24,8 @@ Calculate the projection
 
 ### PLC
 basis for linear interpolations:
-    each of the bases only takes 1 at one of the collocation points and zero at other points.
+    each of the bases only takes 1 at one of the collocation points and zero at other points. "Delta functions".
 
     Also called "position basis"
 
+### Finite differences
